@@ -1,0 +1,178 @@
+h1{
+  color: black;
+  text-shadow: 3px 5px 2px #35383a;
+}
+
+#nombre{
+  font-size: 100px;
+  position: absolute;
+  top: 300px;
+  left: 200px;
+}
+
+
+#contenedor1{
+  width: 100%;
+  height: 1080px;
+  background-color: #f1e9bb;
+  background-image: url(trianglify-lowres.png);
+  background-repeat: no-repeat;
+  background-size: 100% 1080px;;
+
+}
+#contenedor2{
+
+  width: 100%;
+  height: 1080px;
+  background-color: #f3c363;
+  background-image: url(fondo1.png);
+  background-repeat: no-repeat;
+  background-size: 100% 1080px;
+
+
+
+}
+#contenedor3{
+
+  width: 100%;
+  height: 1080px;
+  background-color: #cf6123;
+    background-image: url(fondo3.png);
+  background-repeat: no-repeat;
+  background-size: 100% 1080px;
+}
+
+
+
+#aa{
+  height: 0px;
+
+
+
+
+}
+
+#barra{
+
+  width: 100%;
+  height: 50px;
+  background-color: #5c483a;
+  filter: drop-shadow(1px 3px 3px black);
+  opacity: 0.1;
+}
+#barra:hover{
+  opacity: 1;
+}
+
+
+
+
+#instagramicon{
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  top: -7px;
+  left: 97%;
+}
+#github{
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  top: -4px;
+  left: 93%;
+}
+#linkedin{
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  top: -7px;
+  left: 89%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#aboutme{
+  margin-top: 40px;
+  font-size: 70px;
+  text-shadow: 0px 0px 0px #35383a;
+}
+
+
+
+#b1{
+  margin: 180px -290px;
+
+  
+}
+
+img{
+  height: 100px;
+  width: 200px;
+
+}
+
+
+
+h3{
+  margin-top: 260px;
+  margin-left: -290px;
+  opacity: 0.8;
+}
+h4{
+  margin-top: 300px;
+  margin-left: -350px;
+  opacity: 0.6;
+}
+
+
+
+
+
+
+header{
+   position: sticky;
+   top: 0;
+}
+
+
+
+
+
+
+
+a {
+  display: inline-block;
+  width: 50px;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+
+scroll-container {
+
+
+
+  scroll-behavior: smooth;
+}
+scroll-page {
+  display: flex;
+ 
+  height: 100%;
+  font-size: 5em;
+}
+
+#abab{
+   margin-top: 40px;
+  font-size: 70px;
+  text-shadow: 0px 0px 0px #35383a;
+}

@@ -1,0 +1,18 @@
+#barra{
+	font-weight: 700;
+	font-size: 25px;
+	text-shadow: 3px 3px 2px #35383a;
+}
+#p1{
+	margin: 25px;
+	color: black;
+
+}
+#p2{
+	margin-left: 50px;
+	color: black;
+}
+#p3{
+	margin-left: 105px;
+	color: black;
+}
